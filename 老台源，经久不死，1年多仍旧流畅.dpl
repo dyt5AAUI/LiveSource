@@ -1,0 +1,37 @@
+﻿DAUMPLAYLIST
+playname=rtmp://dv2.tp33.net/sat/tv051
+topindex=0
+saveplaypos=0
+1*file*rtmp://dv2.tp33.net/sat/tv051
+1*title*民视
+1*played*0
+2*file*rtmp://dv2.tp33.net/sat/tv111
+2*title*华视
+2*played*0
+3*file*rtmp://dv2.tp33.net/sat/tv071
+3*title*台视
+3*played*0
+4*file*rtmp://dv2.tp33.net/sat/tv091
+4*title*中视
+4*played*0
+5*file*rtmp://dv2.tp33.net/sat/tv551
+5*title*TVBS新闻台
+5*played*0
+6*file*rtmp://dv2.tp33.net/sat/tv571
+6*title*东森财经新闻
+6*played*0
+7*file*rtmp://dv2.tp33.net/sat/tv731
+7*title*FOX SPORTS
+7*played*0
+8*file*rtmp://dv2.tp33.net/sat/tv741
+8*title*FOX SPORT 2
+8*played*0
+9*file*rtmp://dv2.tp33.net/sat/tv721
+9*title*纬来体育
+9*played*0
+10*file*rtmp://dv2.tp33.net/sat/tv761
+10*title*纬来日本
+10*played*0
+11*file*rtmp://dv2.tp33.net/sat/tv701
+11*title*纬来育乐
+11*played*0
